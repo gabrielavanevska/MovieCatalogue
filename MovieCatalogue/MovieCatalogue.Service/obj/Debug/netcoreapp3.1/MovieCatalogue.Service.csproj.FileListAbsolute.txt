@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Movie Catalogue\MovieCatalogue\MovieCatalogue.Service\bin\Debug\netcoreapp3.1\MovieCatalogue.Service.deps.json
+C:\Users\User\Desktop\Movie Catalogue\MovieCatalogue\MovieCatalogue.Service\bin\Debug\netcoreapp3.1\MovieCatalogue.Service.dll
+C:\Users\User\Desktop\Movie Catalogue\MovieCatalogue\MovieCatalogue.Service\bin\Debug\netcoreapp3.1\MovieCatalogue.Service.pdb
+C:\Users\User\Desktop\Movie Catalogue\MovieCatalogue\MovieCatalogue.Service\obj\Debug\netcoreapp3.1\MovieCatalogue.Service.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Movie Catalogue\MovieCatalogue\MovieCatalogue.Service\obj\Debug\netcoreapp3.1\MovieCatalogue.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Movie Catalogue\MovieCatalogue\MovieCatalogue.Service\obj\Debug\netcoreapp3.1\MovieCatalogue.Service.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Movie Catalogue\MovieCatalogue\MovieCatalogue.Service\obj\Debug\netcoreapp3.1\MovieCatalogue.Service.AssemblyInfo.cs
+C:\Users\User\Desktop\Movie Catalogue\MovieCatalogue\MovieCatalogue.Service\obj\Debug\netcoreapp3.1\MovieCatalogue.Service.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Movie Catalogue\MovieCatalogue\MovieCatalogue.Service\obj\Debug\netcoreapp3.1\MovieCatalogue.Service.dll
+C:\Users\User\Desktop\Movie Catalogue\MovieCatalogue\MovieCatalogue.Service\obj\Debug\netcoreapp3.1\MovieCatalogue.Service.pdb
+C:\Users\User\Desktop\Movie Catalogue\MovieCatalogue\MovieCatalogue.Service\bin\Debug\netcoreapp3.1\MovieCatalogue.Domain.dll
+C:\Users\User\Desktop\Movie Catalogue\MovieCatalogue\MovieCatalogue.Service\bin\Debug\netcoreapp3.1\MovieCatalogue.Repository.dll
+C:\Users\User\Desktop\Movie Catalogue\MovieCatalogue\MovieCatalogue.Service\bin\Debug\netcoreapp3.1\MovieCatalogue.Domain.pdb
+C:\Users\User\Desktop\Movie Catalogue\MovieCatalogue\MovieCatalogue.Service\bin\Debug\netcoreapp3.1\MovieCatalogue.Repository.pdb
+C:\Users\User\Desktop\Movie Catalogue\MovieCatalogue\MovieCatalogue.Service\obj\Debug\netcoreapp3.1\MovieCatalogue.Service.csproj.CopyComplete
